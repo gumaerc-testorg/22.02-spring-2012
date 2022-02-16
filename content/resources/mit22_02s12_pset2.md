@@ -2,8 +2,13 @@
 content_type: resource
 description: This file contains information regarding introduction to applied nuclear
   physics of problem set 2.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-02-introduction-to-applied-nuclear-physics-spring-2012/9dc6ce836db61f2b24bee7130a5c306d_MIT22_02S12_pset2.pdf
+file: /media/courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/9dc6ce836db61f2b24bee7130a5c306d_MIT22_02S12_pset2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Problem set 2
 uid: 9dc6ce83-6db6-1f2b-24be-e7130a5c306d

@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 6366432d-4d81-18a0-84eb-bc9da46956c1
 ---
@@ -197,7 +200,7 @@ Bound systems and energy levels
 {{< tdopen >}}
 Angular momentum
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 4.2
 {{< tdclose >}}
 {{< tdopen >}}

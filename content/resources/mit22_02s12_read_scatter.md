@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding scattering theory.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-02-introduction-to-applied-nuclear-physics-spring-2012/0180c7ebcfab4f32e636b3b7da815be2_MIT22_02S12_read_scatter.pdf
+file: /media/courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/0180c7ebcfab4f32e636b3b7da815be2_MIT22_02S12_read_scatter.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: 'Notes on QM theory of scattering '
 uid: 0180c7eb-cfab-4f32-e636-b3b7da815be2

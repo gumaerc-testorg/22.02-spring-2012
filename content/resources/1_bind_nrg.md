@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This is a supporting file of 1_bind_nrg.cdf.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-02-introduction-to-applied-nuclear-physics-spring-2012/a9124c49964c90fb4fa2a499b91b2452_1_bind_nrg.cdf
+file: /media/courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/a9124c49964c90fb4fa2a499b91b2452_1_bind_nrg.cdf
 file_type: application/x-cdf
+learning_resource_types:
+- Tools
+ocw_type: OCWFile
+parent_title: Tools
+parent_type: CourseSection
 resourcetype: Other
 title: 1_bind_nrg.cdf
 uid: a9124c49-964c-90fb-4fa2-a499b91b2452

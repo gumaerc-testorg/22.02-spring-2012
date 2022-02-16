@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This file contains information regarding Introduction to applied nuclear
   physics of 2010 midterm exam. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-02-introduction-to-applied-nuclear-physics-spring-2012/39fae70c5afcd11e50557b019be2b435_MIT22_02S12_midterm_2010.pdf
+file: /media/courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/39fae70c5afcd11e50557b019be2b435_MIT22_02S12_midterm_2010.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: 2010 midterm exam
 uid: 39fae70c-5afc-d11e-5055-7b019be2b435

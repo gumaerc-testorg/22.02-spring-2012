@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information regarding nuclear structure.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-02-introduction-to-applied-nuclear-physics-spring-2012/5ac279a77468f9041a4d213442c3cb6a_MIT22_02S12_lec_ch5.pdf
+file: /media/courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/5ac279a77468f9041a4d213442c3cb6a_MIT22_02S12_lec_ch5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Lecture notes, Chapter 5. Nuclear Structure
 uid: 5ac279a7-7468-f904-1a4d-213442c3cb6a

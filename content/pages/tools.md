@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 title: Tools
 uid: 0e7e7681-cd4a-4d20-4a28-01dd1af12950
 ---
@@ -26,7 +29,7 @@ NOTES
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 1\. Introduction to Nuclear Physics
@@ -62,7 +65,7 @@ SEMF and Liquid Drop Model: B/A vs. A
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 2\. Introduction to Quantum Mechanics
@@ -89,7 +92,7 @@ Wave packet and its Fourier transform
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 3\. Radioactive Decay, Part I
@@ -125,7 +128,7 @@ Tunneling through the Coulomb barrier. The barrier height depends on Z. Vary the
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 4\. Energy Levels
@@ -209,7 +212,7 @@ _No demos_
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 8\. Applications of Nuclear Science
