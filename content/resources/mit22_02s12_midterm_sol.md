@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 0192239e-ca40-5b42-d8fa-97d016513037
 resourcetype: Document
 title: MIT22_02S12_midterm_sol.pdf
 uid: c98c9e9d-37b0-a33b-e554-c48e4ddd75fb

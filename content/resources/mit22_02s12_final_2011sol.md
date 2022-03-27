@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 0192239e-ca40-5b42-d8fa-97d016513037
 resourcetype: Document
 title: 2011 final exam with solutions
 uid: ead89e31-50e2-c912-3e8a-6596a84773c2

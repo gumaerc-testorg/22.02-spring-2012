@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 0e7e7681-cd4a-4d20-4a28-01dd1af12950
 resourcetype: Other
 title: 1_bind_nrg.cdf
 uid: a9124c49-964c-90fb-4fa2-a499b91b2452

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 788144f4-c3ba-3697-e923-f6815e772c4e
 resourcetype: Document
 title: 'Notes on QM theory of scattering '
 uid: 0180c7eb-cfab-4f32-e636-b3b7da815be2

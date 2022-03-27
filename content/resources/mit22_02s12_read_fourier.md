@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 788144f4-c3ba-3697-e923-f6815e772c4e
 resourcetype: Document
 title: 'Short review of the Fourier transform '
 uid: 5d8a0823-7186-3a01-6bbe-1cedf9d6df1b

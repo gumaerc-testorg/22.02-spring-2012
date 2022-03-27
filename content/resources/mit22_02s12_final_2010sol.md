@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 0192239e-ca40-5b42-d8fa-97d016513037
 resourcetype: Document
 title: 2010 midterm exam solutions
 uid: 1c185371-0c8d-bc87-103a-9059d6013865

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 0e7e7681-cd4a-4d20-4a28-01dd1af12950
 resourcetype: Other
 title: 8_rutherford.cdf
 uid: bb118b4d-7541-0424-2fda-7ac6a9e7454e

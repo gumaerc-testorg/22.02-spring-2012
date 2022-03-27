@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6366432d-4d81-18a0-84eb-bc9da46956c1
 resourcetype: Document
 title: Lecture notes, Chapter 6. Time Evolution in Quantum Mechanics
 uid: b5106a49-9ae0-3e36-b5a2-e002355668f9

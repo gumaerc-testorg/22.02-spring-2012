@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6366432d-4d81-18a0-84eb-bc9da46956c1
 resourcetype: Document
 title: Lecture notes, Chapter 8. Applications of Nuclear Science
 uid: f06e2688-9dd2-332f-1664-a2df42e00ed4

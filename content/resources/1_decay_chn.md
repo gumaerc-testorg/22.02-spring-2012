@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 0e7e7681-cd4a-4d20-4a28-01dd1af12950
 resourcetype: Other
 title: 1_decay_chn.cdf
 uid: a4e35dc7-3cdc-54b5-4c3e-b041f763838e
