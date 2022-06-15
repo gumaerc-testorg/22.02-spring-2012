@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the nine problem sets assigned for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -11,20 +12,20 @@ Problem sets are critical in your learning process. While doing homework, do not
 
 Solutions to these problem sets are not available for OCW.
 
-[Problem set 1 (PDF)]({{< baseurl >}}/resources/mit22_02s12_pset1)
+{{% resource_link 5ae3c101-c862-68f2-c3b0-01d93de52ef5 "Problem set 1 (PDF)" %}}
 
-[Problem set 2 (PDF)]({{< baseurl >}}/resources/mit22_02s12_pset2)
+{{% resource_link 9dc6ce83-6db6-1f2b-24be-e7130a5c306d "Problem set 2 (PDF)" %}}
 
-[Problem set 3 (PDF)]({{< baseurl >}}/resources/mit22_02s12_pset3)
+{{% resource_link 6e422426-9f41-234a-d118-1adeaaca3e72 "Problem set 3 (PDF)" %}}
 
-[Problem set 4 (PDF)]({{< baseurl >}}/resources/mit22_02s12_pset4)
+{{% resource_link 219b1c4f-6a75-2cd4-1a25-94dd0a56e6c8 "Problem set 4 (PDF)" %}}
 
-[Problem set 5 (PDF)]({{< baseurl >}}/resources/mit22_02s12_pset5)
+{{% resource_link 8bb0d677-08bf-e9ff-309d-617fcf9e9bca "Problem set 5 (PDF)" %}}
 
-[Problem set 6 (PDF)]({{< baseurl >}}/resources/mit22_02s12_pset6)
+{{% resource_link eb032aa4-99c7-48c9-f82e-83bcda62ebe7 "Problem set 6 (PDF)" %}}
 
-[Problem set 7 (PDF)]({{< baseurl >}}/resources/mit22_02s12_pset7)
+{{% resource_link 25c817c4-19d0-8425-a457-86dc44273164 "Problem set 7 (PDF)" %}}
 
-[Problem set 8 (PDF)]({{< baseurl >}}/resources/mit22_02s12_pset8)
+{{% resource_link 5939b6d1-9d9b-dd53-04bb-48d11e973b44 "Problem set 8 (PDF)" %}}
 
-[Problem set 9 (PDF)]({{< baseurl >}}/resources/mit22_02s12_pset9)
+{{% resource_link 4298cfa0-b33e-4de9-2c71-fef460bea5a9 "Problem set 9 (PDF)" %}}

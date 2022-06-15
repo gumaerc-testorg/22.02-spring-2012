@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section lists the assigned readings from the course textbooks, plus
+  supplemental readings on selected topics.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -81,9 +83,9 @@ Original paper introducing the SEMF: Weizsäcker, C. F. v. "[Zur Theorie der Ker
 
 ### Supplemental
 
-[Short review of the Fourier transform (PDF)]({{< baseurl >}}/resources/mit22_02s12_read_fourier)
+{{% resource_link 5d8a0823-7186-3a01-6bbe-1cedf9d6df1b "Short review of the Fourier transform (PDF)" %}}
 
-Short review of linear algebra: [Introduction to Eigenvalues (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](http://math.mit.edu/linearalgebra/ila0601.pdf)
+Short review of linear algebra: [Introduction to Eigenvalues (PDF)](http://math.mit.edu/linearalgebra/ila0601.pdf)
 
 Strang, Gilbert. [_Introduction to Linear Algebra_](http://math.mit.edu/linearalgebra/). 4th ed. Wellesley-Cambridge Press, 2009. ISBN: 9780980232714. As used in MIT class [_18.06 Linear Algebra_](/courses/18-06-linear-algebra-spring-2010).
 
@@ -240,7 +242,7 @@ Sakurai, J. J., and J. J. Napolitano. Sections 1.1 and 1.2 in _Modern Quantum Me
 
 ### Supplemental
 
-[Notes on QM theory of scattering (PDF)]({{< baseurl >}}/resources/mit22_02s12_read_scatter)
+{{% resource_link 0180c7eb-cfab-4f32-e636-b3b7da815be2 "Notes on QM theory of scattering (PDF)" %}}
 
 
 {{< tdclose >}}

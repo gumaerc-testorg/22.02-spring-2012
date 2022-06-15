@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section features a collection of Wolfram CDF interactive demonstrations
+  written by Prof. Cappellaro.
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
@@ -39,7 +41,7 @@ NOTES
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Binding Energy from SEMF (CDF)]({{< baseurl >}}/resources/1_bind_nrg)
+{{% resource_link a9124c49-964c-90fb-4fa2-a499b91b2452 "Binding Energy from SEMF (CDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 SEMF and Liquid Drop Model: B vs. A
@@ -48,7 +50,7 @@ SEMF and Liquid Drop Model: B vs. A
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Binding Energy (B/A) from SEMF (CDF)]({{< baseurl >}}/resources/1_bind_nrg_ba)
+{{% resource_link 9f58b836-6b32-dee5-c0ff-cb5a85ac18da "Binding Energy (B/A) from SEMF (CDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 SEMF and Liquid Drop Model: B/A vs. A
@@ -57,7 +59,7 @@ SEMF and Liquid Drop Model: B/A vs. A
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Radioactive Decay Chain (CDF)]({{< baseurl >}}/resources/1_decay_chn)
+{{% resource_link a4e35dc7-3cdc-54b5-4c3e-b041f763838e "Radioactive Decay Chain (CDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -75,7 +77,7 @@ SEMF and Liquid Drop Model: B/A vs. A
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Uncertainty Principle for Waves (CDF)]({{< baseurl >}}/resources/2_wavepkt1)
+{{% resource_link 3a0635bb-980c-8bae-7619-741ddbb29c55 "Uncertainty Principle for Waves (CDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Standing/Propagating wave vs. Wavepacket
@@ -84,7 +86,7 @@ Standing/Propagating wave vs. Wavepacket
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Wave Packet (CDF)]({{< baseurl >}}/resources/2_wavepkt2)
+{{% resource_link b3f3bad6-1c1f-f599-f6bc-ee0c68f699f5 "Wave Packet (CDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Wave packet and its Fourier transform
@@ -102,7 +104,7 @@ Wave packet and its Fourier transform
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Scattering and Tunneling (CDF)]({{< baseurl >}}/resources/3_scat_tnl)
+{{% resource_link c0533902-7298-ad95-f743-6fecfaf3cc26 "Scattering and Tunneling (CDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Scattering and tunneling for a finite barrier. Change barrier height and length to change to probability of transmission.
@@ -111,7 +113,7 @@ Scattering and tunneling for a finite barrier. Change barrier height and length 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Alpha decay (CDF)]({{< baseurl >}}/resources/3_alpha)
+{{% resource_link f9885f23-c500-c603-99cd-5cbe7499ca61 "Alpha decay (CDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Calculate the Coulomb barrier for various parent nuclide and fragments. Compare alpha to other decays. Find the decay rate (from tunneling probability and frequency) from Gamow theory.
@@ -120,7 +122,7 @@ Calculate the Coulomb barrier for various parent nuclide and fragments. Compare 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Alpha decay and alternative decays (CDF)]({{< baseurl >}}/resources/3_alpha_alt)
+{{% resource_link 2f8fa547-add0-7e68-05f0-343433d8a08a "Alpha decay and alternative decays (CDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Tunneling through the Coulomb barrier. The barrier height depends on Z. Vary the alpha's Q value.
@@ -138,7 +140,7 @@ Tunneling through the Coulomb barrier. The barrier height depends on Z. Vary the
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Bound States in an Infinite Potential Well (CDF)]({{< baseurl >}}/resources/4_inifinite)
+{{% resource_link 3f03894d-e19c-23f6-f939-cce42559ee33 "Bound States in an Infinite Potential Well (CDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Energy eigenstates for an infinite well, between \[0,L\]
@@ -147,7 +149,7 @@ Energy eigenstates for an infinite well, between \[0,L\]
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Bound States in a Square Potential Well (CDF)]({{< baseurl >}}/resources/4_finite)
+{{% resource_link 6e17d887-b568-7f24-7bc1-3d9d1bc234f0 "Bound States in a Square Potential Well (CDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Energy eigenvalues and energy eigenstates for a finite well, between \[-a/2, a/2\]
@@ -156,7 +158,7 @@ Energy eigenvalues and energy eigenstates for a finite well, between \[-a/2, a/2
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Spherical Harmonics (CDF)]({{< baseurl >}}/resources/4_spher_harm)
+{{% resource_link 2ac4eec8-03e4-8715-3fad-74ebfcbc0098 "Spherical Harmonics (CDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Absolute value and real part of spherical harmonics
@@ -168,7 +170,7 @@ Absolute value and real part of spherical harmonics
 5\. Nuclear Structure (Lectures 14–16)
 {{< tdclose >}}
 {{< tdopen >}}
-[Shell Filling in the Nuclear Shell Model (CDF)]({{< baseurl >}}/resources/5_shell_fill)
+{{% resource_link 718ea74c-e828-ecfa-c93d-97f377e004e1 "Shell Filling in the Nuclear Shell Model (CDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Filling of the shell model levels. (Note that some level order is different than in Krane.)
@@ -186,7 +188,7 @@ Filling of the shell model levels. (Note that some level order is different than
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Sinc Function for Fermi's Golden Rule (CDF)]({{< baseurl >}}/resources/6_sinc_plot)
+{{% resource_link 2b743182-525e-0876-00f9-87ba84a17a86 "Sinc Function for Fermi's Golden Rule (CDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Delta function as a limit of the sinc function
@@ -222,7 +224,7 @@ _No demos_
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Neutron Scattering (CDF)]({{< baseurl >}}/resources/8_neutron)
+{{% resource_link 91973493-d708-9743-e9ca-c9e29da954ca "Neutron Scattering (CDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -231,7 +233,7 @@ _No demos_
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Coulomb (Rutherford) Scattering (CDF)]({{< baseurl >}}/resources/8_rutherford)
+{{% resource_link bb118b4d-7541-0424-2fda-7ac6a9e7454e "Coulomb (Rutherford) Scattering (CDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
