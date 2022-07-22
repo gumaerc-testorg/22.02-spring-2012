@@ -5,6 +5,7 @@ file: /courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/f9885f2
 file_type: application/x-cdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 3_alpha.cdf
 uid: f9885f23-c500-c603-99cd-5cbe7499ca61
 ---
 This is a supporting file of 3_alpha.cdf.
-

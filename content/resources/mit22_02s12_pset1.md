@@ -6,6 +6,7 @@ file: /courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/5ae3c10
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Problem set 1
 uid: 5ae3c101-c862-68f2-c3b0-01d93de52ef5
 ---
 This file contains information regarding introduction to applied nuclear physics of problem set 1.
-

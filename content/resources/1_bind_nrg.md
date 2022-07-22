@@ -5,6 +5,7 @@ file: /courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/a9124c4
 file_type: application/x-cdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 1_bind_nrg.cdf
 uid: a9124c49-964c-90fb-4fa2-a499b91b2452
 ---
 This is a supporting file of 1_bind_nrg.cdf.
-

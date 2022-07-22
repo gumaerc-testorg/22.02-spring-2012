@@ -6,6 +6,7 @@ file: /courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/5994f45
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 2011 midterm exam
 uid: 5994f456-8f01-dbc3-3f67-827f227f6d96
 ---
 This file contains information regarding Introduction to applied nuclear physics of 2011 midterm exam.
-

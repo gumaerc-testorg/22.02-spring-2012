@@ -6,6 +6,7 @@ file: /courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/8cd6e1d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture notes, Chapter 3. Radioactive Decay, Part I
 uid: 8cd6e1d6-23ee-f639-8635-6cb30c2a0387
 ---
 This resource contains information regarding radioactive decay, part I.
-

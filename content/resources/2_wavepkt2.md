@@ -5,6 +5,7 @@ file: /courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/b3f3bad
 file_type: application/x-cdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 2_wavepkt2.cdf
 uid: b3f3bad6-1c1f-f599-f6bc-ee0c68f699f5
 ---
 This is a supporting file of 2_wavepkt2.cdf.
-

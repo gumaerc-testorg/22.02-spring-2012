@@ -6,6 +6,7 @@ file: /courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/d0d046f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture notes, Chapter 1. Introduction to Nuclear Physics
 uid: d0d046f7-8c91-7f10-7d92-5f11ac862ae4
 ---
 This resource contains information regarding introduction to nuclear physics.
-

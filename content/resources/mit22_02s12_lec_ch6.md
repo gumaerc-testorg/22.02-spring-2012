@@ -6,6 +6,7 @@ file: /courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/b5106a4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture notes, Chapter 6. Time Evolution in Quantum Mechanics
 uid: b5106a49-9ae0-3e36-b5a2-e002355668f9
 ---
 This resource contains information regarding time evolution in quantum mechanics.
-

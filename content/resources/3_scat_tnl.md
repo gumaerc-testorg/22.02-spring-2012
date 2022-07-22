@@ -5,6 +5,7 @@ file: /courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/c053390
 file_type: application/x-cdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 3_scat_tnl.cdf
 uid: c0533902-7298-ad95-f743-6fecfaf3cc26
 ---
 This is a supporting file of 3_scat_tnl.cdf.
-

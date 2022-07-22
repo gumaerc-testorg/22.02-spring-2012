@@ -6,6 +6,7 @@ file: /courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/1c18537
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 2010 midterm exam solutions
 uid: 1c185371-0c8d-bc87-103a-9059d6013865
 ---
 This file contains solutions of introduction to applied nuclear physics of 2010 final exam.
-

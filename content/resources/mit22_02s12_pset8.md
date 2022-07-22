@@ -6,6 +6,7 @@ file: /courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/5939b6d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Problem set 8
 uid: 5939b6d1-9d9b-dd53-04bb-48d11e973b44
 ---
 This file contains information regarding introduction to applied nuclear physics of problem set 8.
-

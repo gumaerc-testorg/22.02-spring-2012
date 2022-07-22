@@ -5,6 +5,7 @@ file: /courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/0a4bf41
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture notes, Chapter 4. Energy Levels
 uid: 0a4bf410-a9a7-9121-d6c9-45b75495a725
 ---
 This resource contains information regarding energy levels.
-

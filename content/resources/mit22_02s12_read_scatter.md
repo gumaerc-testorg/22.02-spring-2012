@@ -5,6 +5,7 @@ file: /courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/0180c7e
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Notes on QM theory of scattering '
 uid: 0180c7eb-cfab-4f32-e636-b3b7da815be2
 ---
 This file contains information regarding scattering theory.
-

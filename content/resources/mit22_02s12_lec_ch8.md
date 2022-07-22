@@ -6,6 +6,7 @@ file: /courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/f06e268
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture notes, Chapter 8. Applications of Nuclear Science
 uid: f06e2688-9dd2-332f-1664-a2df42e00ed4
 ---
 This resource contains information regarding applications of nuclear science.
-

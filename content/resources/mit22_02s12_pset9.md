@@ -6,6 +6,7 @@ file: /courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/4298cfa
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Problem set 9
 uid: 4298cfa0-b33e-4de9-2c71-fef460bea5a9
 ---
 This file contains information regarding introduction to applied nuclear physics of problem set 9.
-

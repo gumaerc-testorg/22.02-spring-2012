@@ -5,6 +5,7 @@ file: /courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/2ac4eec
 file_type: application/x-cdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 4_spher_harm.cdf
 uid: 2ac4eec8-03e4-8715-3fad-74ebfcbc0098
 ---
 This is a supporting file of 4_spher_harm.cdf.
-

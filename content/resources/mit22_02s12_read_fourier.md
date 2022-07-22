@@ -5,6 +5,7 @@ file: /courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/5d8a082
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Short review of the Fourier transform '
 uid: 5d8a0823-7186-3a01-6bbe-1cedf9d6df1b
 ---
 This file contains information regarding FourierTransform.
-
