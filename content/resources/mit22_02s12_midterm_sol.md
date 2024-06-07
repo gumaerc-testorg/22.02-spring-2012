@@ -3,6 +3,7 @@ content_type: resource
 description: 'This file contains solutions of  introduction to applied nuclear physics
   of 2011 midterm exam solutions. '
 file: /courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/c98c9e9d37b0a33be554c48e4ddd75fb_MIT22_02S12_midterm_sol.pdf
+file_size: 517593
 file_type: application/pdf
 learning_resource_types:
 - Exams

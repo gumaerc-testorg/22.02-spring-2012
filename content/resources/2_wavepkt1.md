@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a supporting file of 2_wavepkt1.cdf.
 file: /courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/3a0635bb980c8bae7619741ddbb29c55_2_wavepkt1.cdf
+file_size: 75169
 file_type: application/x-cdf
 learning_resource_types:
 - Tools
