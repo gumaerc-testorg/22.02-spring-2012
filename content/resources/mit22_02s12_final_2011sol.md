@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains solutions of introduction to applied nuclear physics
   of 2011 final exam.
 file: /courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/ead89e3150e2c9123e8a6596a84773c2_MIT22_02S12_final_2011sol.pdf
+file_size: 630575
 file_type: application/pdf
 learning_resource_types:
 - Exams

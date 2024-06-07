@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding nuclear structure.
 file: /courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/5ac279a77468f9041a4d213442c3cb6a_MIT22_02S12_lec_ch5.pdf
+file_size: 392025
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
