@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a supporting file of 3_scat_tnl.cdf.
 file: /courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/c05339027298ad95f7436fecfaf3cc26_3_scat_tnl.cdf
+file_size: 10807
 file_type: application/x-cdf
 learning_resource_types:
 - Tools

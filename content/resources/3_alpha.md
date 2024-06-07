@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a supporting file of 3_alpha.cdf.
 file: /courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/f9885f23c500c60399cd5cbe7499ca61_3_alpha.cdf
+file_size: 16634
 file_type: application/x-cdf
 learning_resource_types:
 - Tools

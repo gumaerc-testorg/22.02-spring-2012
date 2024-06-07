@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding time evolution in quantum
   mechanics.
 file: /courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/b5106a499ae03e36b5a2e002355668f9_MIT22_02S12_lec_ch6.pdf
+file_size: 338368
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
