@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file of 5_shell_fill.cdf.
-file: /courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/718ea74ce828ecfac93d97f377e004e1_5_shell_fill.cdf
+file: /ol-ocw-studio-app/courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/718ea74ce828ecfac93d97f377e004e1_5_shell_fill.cdf
 file_size: 48587
 file_type: application/x-cdf
 learning_resource_types:
