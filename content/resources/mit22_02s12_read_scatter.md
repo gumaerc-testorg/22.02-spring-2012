@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding scattering theory.
-file: /courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/0180c7ebcfab4f32e636b3b7da815be2_MIT22_02S12_read_scatter.pdf
+file: /ol-ocw-studio-app/courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/0180c7ebcfab4f32e636b3b7da815be2_MIT22_02S12_read_scatter.pdf
 file_size: 119322
 file_type: application/pdf
 learning_resource_types:
