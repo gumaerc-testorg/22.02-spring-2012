@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file of 1_decay_chn.cdf.
-file: /ol-ocw-studio-app/courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/a4e35dc73cdc54b54c3eb041f763838e_1_decay_chn.cdf
+file: /courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/a4e35dc73cdc54b54c3eb041f763838e_1_decay_chn.cdf
 file_size: 79858
 file_type: application/x-cdf
 learning_resource_types:

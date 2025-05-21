@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file of 4_finite.cdf.
-file: /ol-ocw-studio-app/courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/6e17d887b5687f247bc13d9d1bc234f0_4_finite.cdf
+file: /courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/6e17d887b5687f247bc13d9d1bc234f0_4_finite.cdf
 file_size: 12087
 file_type: application/x-cdf
 learning_resource_types:

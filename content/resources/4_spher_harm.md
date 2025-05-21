@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file of 4_spher_harm.cdf.
-file: /ol-ocw-studio-app/courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/2ac4eec803e487153fad74ebfcbc0098_4_spher_harm.cdf
+file: /courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/2ac4eec803e487153fad74ebfcbc0098_4_spher_harm.cdf
 file_size: 6762
 file_type: application/x-cdf
 learning_resource_types:
