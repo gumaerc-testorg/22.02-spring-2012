@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding radioactive decay, part
   I.
-file: /ol-ocw-studio-app/courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/8cd6e1d623eef63986356cb30c2a0387_MIT22_02S12_lec_ch3.pdf
+file: /courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/8cd6e1d623eef63986356cb30c2a0387_MIT22_02S12_lec_ch3.pdf
 file_size: 1100478
 file_type: application/pdf
 learning_resource_types:
