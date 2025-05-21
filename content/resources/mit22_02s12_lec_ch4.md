@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding energy levels.
-file: /ol-ocw-studio-app/courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/0a4bf410a9a79121d6c945b75495a725_MIT22_02S12_lec_ch4.pdf
+file: /courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/0a4bf410a9a79121d6c945b75495a725_MIT22_02S12_lec_ch4.pdf
 file_size: 742531
 file_type: application/pdf
 learning_resource_types:
