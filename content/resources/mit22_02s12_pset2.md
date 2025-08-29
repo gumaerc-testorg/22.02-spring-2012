@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding introduction to applied nuclear
   physics of problem set 2.
-file: /courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/9dc6ce836db61f2b24bee7130a5c306d_MIT22_02S12_pset2.pdf
+file: /ol-ocw-studio-app/courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/9dc6ce836db61f2b24bee7130a5c306d_MIT22_02S12_pset2.pdf
 file_size: 51727
 file_type: application/pdf
 learning_resource_types:
