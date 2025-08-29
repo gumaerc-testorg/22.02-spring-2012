@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file of 8_neutron.cdf.
-file: /courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/91973493d7089743e9cac9e29da954ca_8_neutron.cdf
+file: /ol-ocw-studio-app/courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/91973493d7089743e9cac9e29da954ca_8_neutron.cdf
 file_size: 24809
 file_type: application/x-cdf
 learning_resource_types:
