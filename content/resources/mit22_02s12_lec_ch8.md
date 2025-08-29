@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding applications of nuclear
   science.
-file: /courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/f06e26889dd2332f1664a2df42e00ed4_MIT22_02S12_lec_ch8.pdf
+file: /ol-ocw-studio-app/courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/f06e26889dd2332f1664a2df42e00ed4_MIT22_02S12_lec_ch8.pdf
 file_size: 1452787
 file_type: application/pdf
 learning_resource_types:
