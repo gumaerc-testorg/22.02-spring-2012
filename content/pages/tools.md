@@ -12,7 +12,7 @@ uid: 0e7e7681-cd4a-4d20-4a28-01dd1af12950
 Mathematica Demos
 -----------------
 
-These CDF files run in the [Wolfram CDF Player](http://www.wolfram.com/cdf-player/), available as a free download.
+These CDF files run in the {{% resource_link "78aeff68-f2a5-418b-a39e-5a3b6befa6ff" "Wolfram CDF Player" %}}, available as a free download.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -246,4 +246,4 @@ _No demos_
 Other Demos
 -----------
 
-[Quantum Tunneling and Wave Packets](http://phet.colorado.edu/en/simulation/quantum-tunneling), from the PhET Interactive Simulations Project at the University of Colorado.
+{{% resource_link "827fd3b3-d2ae-4d1c-82f1-0a5bcfa6a4e8" "Quantum Tunneling and Wave Packets" %}}, from the PhET Interactive Simulations Project at the University of Colorado.
