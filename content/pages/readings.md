@@ -53,7 +53,7 @@ READINGS
 
 ### Supplemental
 
-Original paper introducing the SEMF: Weizsäcker, C. F. v. "[Zur Theorie der Kernmassen](http://dx.doi.org/10.1007/BF01337700)." _Zeitschrift für Physik_ 96, no. 7–8 (1935): 431–58.
+Original paper introducing the SEMF: Weizsäcker, C. F. v. "{{% resource_link "d844763f-240c-4344-b734-dc54ca0ff143" "Zur Theorie der Kernmassen" %}}." _Zeitschrift für Physik_ 96, no. 7–8 (1935): 431–58.
 
 
 {{< tdclose >}}
@@ -85,13 +85,13 @@ Original paper introducing the SEMF: Weizsäcker, C. F. v. "[Zur Theorie der Ker
 
 {{% resource_link 5d8a0823-7186-3a01-6bbe-1cedf9d6df1b "Short review of the Fourier transform (PDF)" %}}
 
-Short review of linear algebra: [Introduction to Eigenvalues (PDF)](http://math.mit.edu/linearalgebra/ila0601.pdf)
+Short review of linear algebra: {{% resource_link "cd08e7c5-d0a4-443f-adf2-e6b286132a07" "Introduction to Eigenvalues (PDF)" %}}
 
-Strang, Gilbert. [_Introduction to Linear Algebra_](http://math.mit.edu/linearalgebra/). 4th ed. Wellesley-Cambridge Press, 2009. ISBN: 9780980232714. As used in MIT class [_18.06 Linear Algebra_](/courses/18-06-linear-algebra-spring-2010).
+Strang, Gilbert. {{% resource_link "9db2e681-8f08-425a-8ad4-a9f53b98dfa5" "_Introduction to Linear Algebra_" %}}. 4th ed. Wellesley-Cambridge Press, 2009. ISBN: 9780980232714. As used in MIT class [_18.06 Linear Algebra_](/courses/18-06-linear-algebra-spring-2010).
 
 Cox, P. A. "Electron Spin and the Pauli Exclusion Principle." Chapter 5.3 in _Introduction to Quantum Theory and Atomic Structure_. Oxford University Press, 1996, pp. 76–9. ISBN: 9780198559160.
 
-Greiner, Walter. _Quantum Mechanics: An Introduction_. 4th ed. Springer, 2000. ISBN: 9783540674580. \[Preview with [Google Books](http://books.google.com/books?id=7qCMUfwoQcAC&pg=frontcover)\]
+Greiner, Walter. _Quantum Mechanics: An Introduction_. 4th ed. Springer, 2000. ISBN: 9783540674580. \[Preview with {{% resource_link "26b26d84-a093-4f57-b204-cd04ea06e471" "Google Books" %}}\]
 
 *   Sect. 1.6, p. 5
 *   Sect. 3.5–3.6, pp. 46–50
